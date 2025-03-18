@@ -1,4 +1,4 @@
-# To-do-list-javascript
+# To Do List Javascript
 To-Do List adalah aplikasi sederhana berbasis HTML, CSS, dan JavaScript yang memungkinkan pengguna untuk mengatur dan mengelola daftar tugas. Aplikasi ini memiliki fitur utama sebagai berikut:
 
 ##  Fitur  
